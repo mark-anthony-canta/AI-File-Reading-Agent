@@ -1,0 +1,7 @@
+# Never share your real API key
+.env
+
+# Python junk files
+__pycache__/
+*.pyc
+venv/
