@@ -12,6 +12,8 @@ A simple AI agent built with **Python**, **Streamlit**, and the **Google Gemini 
 
 ## Setup
 
+Create a Folder and name it "agent_files" and store the Files you want the AI Agent to read
+
 Create a virtual environment:
 
 powershell
